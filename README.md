@@ -3,12 +3,12 @@
 > You so tee :P
 
 
-*On*:
-```
-My favorite language is C/C++.
-```
-
 *I*:
 ```
 *** I'm C/C++ beginner.
+```
+
+*On*:
+```
+My favorite language is C/C++.
 ```
