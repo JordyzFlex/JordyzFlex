@@ -2,8 +2,13 @@
 
 > You so tee :P
 
-*I*:
 
+*On*:
+```
+My favorite language is C/C++.
+```
+
+*I*:
 ```
 *** I'm C/C++ beginner.
 ```
