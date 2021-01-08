@@ -2,7 +2,7 @@
 
 > You so tee :P
 
-*i*:
+*I*:
 
 ```
 *** I'm C/C++ beginner.
