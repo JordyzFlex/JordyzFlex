@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&exclude_repo=github-readme-stats,blueflex.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
 
 > You so tee :P
 
