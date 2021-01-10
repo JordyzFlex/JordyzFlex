@@ -1,6 +1,6 @@
 <p align="center"> 
     <a href="https://github.com/BlueFlex/">
-        <img assets="./assets/" width="100" /> 
+        <img src="./assets/Blue_Image2.png" width="100" /> 
         <h2 align="center">BlueFlex</h2>
     </a>
 </p>
