@@ -1,6 +1,7 @@
 <p align="center"> 
-    <a href="https://github.com/BlueFlex>
-           
+    <a href="https://github.com/BlueFlex/">
+        <img assets="./assets/BlueFlexPhotoProfile.png" width="100" /> 
+        <h2 align="center">BlueFlex</h2>
     </a>
 </p>
 
