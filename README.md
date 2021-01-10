@@ -4,10 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-
-> You so tee :P
-
-> are you a scientist?
+> are you a programmer?
 
 *About*:
 
