@@ -5,11 +5,22 @@
     </a>
 </p>
 
-[![BlueFlex's Github Stats](https://github-readme-stats.vercel.app/api?username=BlueFlex&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&langs_count=10&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>
+    GitHub Stats
+  </summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BlueFlex&theme=blueberry&count_private=true&include_all_commits=true" alt="BlueFlex's GitHub Stats"/>
+  </a>
+</details>
+<details>
+  <summary>
+    GitHub Top Languages
+  </summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&theme=blueberry&layout=compact&hide=html&langs_count=10" alt="BlueFlex's GitHub Top Languages"/>
+  </a>
+</details>
 
 > are you a programmer?
 
