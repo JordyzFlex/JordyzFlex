@@ -5,7 +5,6 @@
     </a>
 </p>
 
-<<<<<<< HEAD
 <details>
   <summary>
     GitHub Stats
@@ -22,11 +21,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&theme=blueberry&layout=compact&hide=html&langs_count=10" alt="BlueFlex's GitHub Top Languages"/>
   </a>
 </details>
-=======
-[![BlueFlex's Github Stats](https://github-readme-stats.vercel.app/api?username=BlueFlex&count_private=true&show_icons=true&hide=stars&hide_border=true&include_all_commits=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&langs_count=10&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
->>>>>>> d00cf63eb16d6f29d8276ace643ae09bb32b0e2d
 
 > are you a programmer?
 
