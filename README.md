@@ -9,7 +9,7 @@
 
 <details>
   <summary>
-    GitHub Stats
+    📊 GitHub Stats
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=BlueFlex&theme=blueberry&count_private=true&include_all_commits=true" alt="BlueFlex's GitHub Stats"/>
@@ -17,7 +17,7 @@
 </details>
 <details>
   <summary>
-    GitHub Top Languages
+    ☈ GitHub Top Languages
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&theme=blueberry&layout=compact&hide=html&langs_count=10" alt="BlueFlex's GitHub Top Languages"/>
