@@ -7,6 +7,8 @@
 
 [WebSite](https://blueflex.github.io)
 
+ <img align="right" alt="GIF" src="https://github.com/BlueFlex/BlueFlex/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <details>
   <summary>
     📊 GitHub Stats
