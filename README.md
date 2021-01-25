@@ -23,6 +23,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&theme=blueberry&layout=compact&hide=html&langs_count=10" alt="BlueFlex's GitHub Top Languages"/>
   </a>
 </details>
+<details>
+   <summary>
+      💥 WebSite
+   </summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">   
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueFlex&repo=blueflex.github.io&theme=blueberry">
+  </a>
+</details>
 
 > are you a programmer?
 
