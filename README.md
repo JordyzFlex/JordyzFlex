@@ -24,9 +24,9 @@
   </a>
 </details>
 <details>
-   <summary>
+    <summary>
       💥 WebSite
-   </summary>
+    </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">   
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueFlex&repo=blueflex.github.io&theme=blueberry">
   </a>
