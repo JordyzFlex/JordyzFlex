@@ -5,8 +5,6 @@
     </a>
 </p>
 
-[WebSite](https://blueflex.github.io)
-
 <img align="right"  alt="GIF" src="https://github.com/BlueFlex/BlueFlex/blob/main/assets/code.gif"  width="450" height="300" />
 
 <details>
