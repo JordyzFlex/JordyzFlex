@@ -60,8 +60,9 @@
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C" width="26px" src="https://camo.githubusercontent.com/2771059ece39a91f0ca8afe0205a540e3af66f435508ba80b080eb249479d4dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67" />
 <img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left' alt="C++" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/880c706a50e4d3101dcb869d04d88ea2fcb0a77c/icons/cplusplus.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/880c706a50e4d3101dcb869d04d88ea2fcb0a77c/icons/cplusplus.svg" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/880c706a50e4d3101dcb869d04d88ea2fcb0a77c/icons/csharp.svg" />
 
 
 
