@@ -31,6 +31,14 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueFlex&repo=blueflex.github.io&theme=blueberry">
   </a>
 </details>
+<details>
+    <summary>
+    🏆 Github Trophies
+    </summary>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BlueFlex&row=2&column=3&theme=dracula">
+  </a>
+</details>  
 
 > are you a programmer?
 
