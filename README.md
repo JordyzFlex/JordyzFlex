@@ -1,7 +1,7 @@
 <p align="center"> 
-    <a href="https://github.com/BlueFlex/">
+    <a href="https://github.com/JordyzFlex/">
         <img src="./assets/Blue_Image2.png" width="100" /> 
-        <h2 align="center">BlueFlex</h2>
+        <h2 align="center">JordyzFlex</h2>
     </a>
 </p>
 
