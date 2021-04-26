@@ -5,14 +5,14 @@
     </a>
 </p>
 
-<img align="right"  alt="GIF" src="https://github.com/BlueFlex/BlueFlex/blob/main/assets/code.gif"  width="450" height="300" />
+<img align="right"  alt="GIF" src="https://github.com/JordyzFlex/JordyzFlex/blob/main/assets/code.gif"  width="450" height="300" />
 
 <details>
   <summary>
     📊 GitHub Stats
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BlueFlex&theme=blueberry&count_private=true&include_all_commits=true" alt="BlueFlex's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=JordyzFlex&theme=blueberry&count_private=true&include_all_commits=true" alt="JordyzFlex's GitHub Stats"/>
   </a>
 </details>
 <details>
@@ -20,7 +20,7 @@
     📈 GitHub Top Languages
   </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueFlex&theme=blueberry&layout=compact&hide=html&langs_count=10" alt="BlueFlex's GitHub Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyzFlex&theme=blueberry&layout=compact&hide=html&langs_count=10" alt="JordyzFlex's GitHub Top Languages"/>
   </a>
 </details>
 <details>
@@ -28,7 +28,7 @@
       💥 WebSite
     </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">   
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueFlex&repo=flexleque&theme=blueberry">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordyzFlex&repo=flexleque&theme=blueberry">
   </a>
 </details>
 <details>
@@ -36,7 +36,7 @@
     🏆 Github Trophies
     </summary>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BlueFlex&row=2&column=3&theme=dracula">
+    <img src="https://github-profile-trophy.vercel.app/?username=JordyzFlex&row=2&column=3&theme=dracula">
   </a>
 </details>  
 
