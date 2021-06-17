@@ -28,7 +28,7 @@
       💥 WebSite
     </summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">   
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordyzFlex&repo=flexleque&theme=blueberry">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordyzFlex&repo=jordyzflexleque&theme=blueberry">
   </a>
 </details>
 <details>
