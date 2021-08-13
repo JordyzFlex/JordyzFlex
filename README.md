@@ -25,14 +25,6 @@
 </details>
 <details>
     <summary>
-      💥 WebSite
-    </summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats">   
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordyzFlex&repo=jordyzflexleque&theme=blueberry">
-  </a>
-</details>
-<details>
-    <summary>
     🏆 Github Trophies
     </summary>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
