@@ -25,7 +25,7 @@
 </details>
 <details>
     <summary>
-    🏆 Github Trophies
+    🏆 GitHub Trophies
     </summary>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=JordyzFlex&row=2&column=3&theme=dracula">
@@ -34,7 +34,7 @@
 
 > are you a programmer?
 
-[@Reptora7TB](https://github.com/Reptora7TB)
+![@Reptora7TB](https://github.com/Reptora7TB)
 
 *About*:
 
