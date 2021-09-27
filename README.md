@@ -5,8 +5,6 @@
     </a>
 </p>
 
-<img align="right"  alt="GIF" src="https://github.com/JordyzFlex/JordyzFlex/blob/main/assets/code.gif"  width="450" height="300" />
-
 <details>
   <summary>
     📊 GitHub Stats
