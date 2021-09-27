@@ -36,10 +36,6 @@
 
 [@Reptora7TB](https://github.com/Reptora7TB)
 
-*About*:
-
-
-*I*:
 ```
 *** I'm C/C++ beginner.
 ```
